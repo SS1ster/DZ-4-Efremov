@@ -2,7 +2,7 @@
 
 namespace DZ_4_Efremov
 {
-    class Program
+    class Program // ругает мэйн
     {
         static public void SumNumbers()
         {
